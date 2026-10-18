@@ -1,0 +1,9 @@
+PORTFOLIO TANJONIAINA dev26
+
+1. Décompressez portfolio_TANJONIAINAdev26.zip sur votre ordinateur.
+2. Ouvrez le dossier puis double-cliquez sur index.html : le portfolio s'ouvre dans votre navigateur et la photo est incluse dans assets/photo-profil.jpg.
+3. Pour le publier sur Internet, créez un dépôt public GitHub nommé TANJONIAINAdev26.github.io (adaptez au nom exact du compte), téléversez index.html et le dossier assets, puis activez Settings > Pages > Deploy from a branch > main > /(root).
+4. Attendez que GitHub affiche l'adresse publique dans Settings > Pages.
+
+Important : ce portfolio est un site statique HTML/CSS/JavaScript. Il ne fait pas tourner directement l'application PHP/MySQL.
+Avant publication, vérifiez le nom du compte GitHub, le lien du dépôt DREN et les compétences affichées. Ne publiez aucun mot de passe ni donnée confidentielle.
